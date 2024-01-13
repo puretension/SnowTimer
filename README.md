@@ -1,21 +1,9 @@
-# SnowmanTimer_team13_mobile
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Yakmoya&color=0D9DE8)
+<div>
 
-A new Flutter project.
+#  GDSC 연합해커톤 눈꽃톤 13팀
 
-## Getting Started
+시연 영상 및 스크린샷
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# SnowmanTimer2_team13_mobile
-# SnowmanTimer2_team13_mobile
-# SnowmanTimer2_team13_mobile
-# SnowTimer
-# SnowTimer
+## 💻 시연 영상
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ej2ZTErFJ7Y/0.jpg)](www.youtube.com/shorts/4FhoPSd_n-s)
